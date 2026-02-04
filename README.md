@@ -1,6 +1,6 @@
 # Amazon-Clone (Frontend)
 
-##Problem Statement-----------------------------------------------------------------------------------------------------------------------------------------------------------
+##Problem Statement-------------------------------------------------------------------------------------------------------
 It is a E-commerce website where all products are available provide a smooth and user-friendly online shopping experience.
 This project aims to "Understand the core front-end features of Amazon" 
 The goal is to practice ** frontend development skills** and build a scalable UI similar to a real production website.
